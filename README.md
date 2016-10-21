@@ -1,4 +1,4 @@
 # Cognizant-Hack
 
-### Live app here:
+### Live web app here:
  - http://webcognizant.herokuapp.com/
