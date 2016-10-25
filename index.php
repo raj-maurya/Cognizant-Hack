@@ -240,7 +240,7 @@ background: #7FFFD4;
 
 <div class="panel panel-default">
   
-<h5><center><strong>Made by Raj Kumar Maurya (<em> GitHub- https://github.com/raj-maurya</em>)</strong></center></h5>
+<h5><center><strong>Designed by Raj Kumar Maurya (<em> GitHub- https://github.com/raj-maurya</em>)</strong></center></h5>
 
 </div>
 
